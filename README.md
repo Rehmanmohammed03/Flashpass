@@ -80,10 +80,4 @@ You can also deploy via [**Vercel**](https://vercel.com/) or any platform that s
 Contributions are welcome!
 Feel free to fork the repository, open issues, or submit pull requests.
 
----
-
-✅ **Copy that entire block** (everything between the triple backticks) and paste it into your `README.md`.  
-It’ll render perfectly formatted on GitHub with sections, icons, and clean spacing.  
-
-Would you like me to add a **short one-line project description** (for the top under the repo name, e.g., the “About” section on GitHub)?
 ```
