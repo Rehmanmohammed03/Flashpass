@@ -1,6 +1,3 @@
-
-
-````markdown
 # ⚡ FlashPass  
 **AI-Powered Flashcard Application**
 
@@ -80,4 +77,3 @@ You can also deploy via [**Vercel**](https://vercel.com/) or any platform that s
 Contributions are welcome!
 Feel free to fork the repository, open issues, or submit pull requests.
 
-```
